@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <!--
 **yeonsu00/yeonsu00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,53 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/yeonsu00"
+    width="600"
+    height="120"
+  />
+</a>
+  
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/yeonsu00?pet-id=627514882804761552"
+    width="600"
+    height="120"
+  />
+</a>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/yeonsu00?pet-id=627514882804761551"
+    width="600"
+    height="120"
+  />
+</a>
+  
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/yeonsu00?pet-id=627514882804761555"
+    width="600"
+    height="120"
+  />
+</a>
+  
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/yeonsu00?pet-id=627514882804761550"
+    width="600"
+    height="120"
+  />
+</a>
+  
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/yeonsu00?pet-id=627514882804761549"
+    width="600"
+    height="120"
+  />
+</a>
+  
+  
