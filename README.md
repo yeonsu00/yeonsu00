@@ -14,7 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/yeonsu00"
+  width="600"
+  height="300"
+/>
+</a>
+<!--
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/yeonsu00"
@@ -22,7 +29,7 @@ Here are some ideas to get you started:
     height="120"
   />
 </a>
-  
+  <--
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/yeonsu00?pet-id=627514882804761552"
@@ -30,7 +37,7 @@ Here are some ideas to get you started:
     height="120"
   />
 </a>
-
+<--
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/yeonsu00?pet-id=627514882804761551"
@@ -38,7 +45,7 @@ Here are some ideas to get you started:
     height="120"
   />
 </a>
-  
+  <--
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/yeonsu00?pet-id=627514882804761555"
@@ -46,7 +53,7 @@ Here are some ideas to get you started:
     height="120"
   />
 </a>
-  
+  <--
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/yeonsu00?pet-id=627514882804761550"
@@ -54,7 +61,7 @@ Here are some ideas to get you started:
     height="120"
   />
 </a>
-  
+  <--
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/yeonsu00?pet-id=627514882804761549"
@@ -62,5 +69,4 @@ Here are some ideas to get you started:
     height="120"
   />
 </a>
-  
-  
+-->
